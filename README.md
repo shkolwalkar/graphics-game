@@ -1,3 +1,9 @@
+# Project Name
+2-Player Minesweeper
+
+**Status:** Archived. Built for Advanced CS Topics/Projects [2024-2025]. Worked at submission; dependencies may be outdated.
+
+## About
 Created a 2-player minesweeper game using Java's graphics interface.
 
 How the game works:
@@ -11,4 +17,5 @@ How the game works:
 - if the former happens, player with more points wins!
 - if the latter happens, player with more time wins!
 
-I remember putting a lot of time into this project when I made (December 2024 - January 2025) so I hope you appreciate how fun it is!
+## Built With
+Java, Graphics library
